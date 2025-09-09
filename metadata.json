@@ -1,0 +1,12 @@
+{
+  "name": "Mogging",
+  "symbol": "MOG",
+  "contract_address": "9dK6NYumhn5cvVSH9RmMj6kGDysxbZu4Q6W5XZtcpump",
+  "decimals": 9,
+  "network": "Solana",
+  "website": "https://x.com/ottaz_mog?s=21",
+  "explorer": "https://solscan.io/token/9dK6NYumhn5cvVSH9RmMj6kGDysxbZu4Q6W5XZtcpump",
+  "description": "This memecoin aims to 'mog' every other memecoin on the market, making looksmaxxers who hold it and rich.",
+  "logo": "logo.png",
+  "license": "MIT"
+}
